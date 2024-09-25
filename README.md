@@ -4,10 +4,10 @@
 ## Screenshot Akun GitHub
 ![Screenshot Akun GitHub](https://github.com/thinthie/TugasMetastro_Fathin/blob/main/Screenshot%202024-09-25%20203533.png)
 
-## Project Terbaru: [Nama Project]
+## Project Terbaru: [mekatronik-achmadi]
 
 ### Screenshot Project
-![Screenshot Project](URL_SCREENSHOT_PROJECT)
+![Screenshot Project]()
 
 ### Deskripsi Project
 [Isi dengan deskripsi singkat project Anda]
