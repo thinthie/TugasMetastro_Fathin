@@ -7,7 +7,7 @@
 ## Project Terbaru: [mekatronik-achmadi]
 
 ### Screenshot Project
-![Screenshot Project]()
+![Screenshot Project](https://github.com/thinthie/TugasMetastro_Fathin/blob/main/Screenshot%202024-09-25%20211620.png)
 
 ### Deskripsi Project
 [Isi dengan deskripsi singkat project Anda]
