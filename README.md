@@ -2,7 +2,7 @@
 # [fathin tsamratul fu'adah]
 
 ## Screenshot Akun GitHub
-![Screenshot Akun GitHub](URL_SCREENSHOT_AKUN_GITHUB)
+![Screenshot Akun GitHub](https://github.com/thinthie/TugasMetastro_Fathin/blob/main/Screenshot%202024-09-25%20203533.png)
 
 ## Project Terbaru: [Nama Project]
 
